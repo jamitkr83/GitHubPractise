@@ -1,0 +1,17 @@
+Below is the list of important git cmds
+1. git init
+2. git status
+3. git add .
+4. git add <filename>
+5. git remote -v
+6. git branch
+7. git branch <branchname>
+8. git log
+9. git log --oneline
+10.git pull origin main
+11 . git remote add origin "https:// .git"
+12 . git remote add forked "https:// .git"
+13. git push forked fork_v1
+14. git restore .
+15 git commit -m "commit message"
+
